@@ -1,0 +1,32 @@
+[
+    {
+        "nama": "admin",
+        "pw": "admin123",
+        "isAdmin": true
+    },
+    {
+        "nama": "petani",
+        "pw": "petani123",
+        "isAdmin": false
+    },
+    {
+        "nama": "brian",
+        "pw": "123",
+        "isAdmin": false
+    },
+    {
+        "nama": "tes",
+        "pw": "123",
+        "isAdmin": false
+    },
+    {
+        "nama": "present",
+        "pw": "123",
+        "isAdmin": false
+    },
+    {
+        "nama": "video",
+        "pw": "12",
+        "isAdmin": false
+    }
+]
